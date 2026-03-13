@@ -1,0 +1,16 @@
+{
+  "name": "GyanSetu",
+  "short_name": "GyanSetu",
+  "description": "Digital learning for rural schools.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3e7",
+  "theme_color": "#5e6e3c",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

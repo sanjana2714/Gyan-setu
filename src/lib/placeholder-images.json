@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "course-computer",
+      "description": "A person learning on a computer.",
+      "imageUrl": "https://images.unsplash.com/photo-1670552508276-a2808d6fdbea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb21wdXRlciUyMGxlYXJuaW5nfGVufDB8fHx8MTc1ODg4NzU1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "computer learning"
+    },
+    {
+      "id": "course-math",
+      "description": "Mathematical equations on a chalkboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1758685733699-04d6544f2655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYXRoZW1hdGljcyUyMGNoYWxrYm9hcmR8ZW58MHx8fHwxNzU4ODU3MDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mathematics chalkboard"
+    },
+    {
+      "id": "course-science",
+      "description": "Science experiment with beakers.",
+      "imageUrl": "https://images.unsplash.com/photo-1758685848783-90477ba42678?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2NpZW5jZSUyMGV4cGVyaW1lbnR8ZW58MHx8fHwxNzU4OTQ2OTUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science experiment"
+    },
+    {
+      "id": "course-english",
+      "description": "An open book with text.",
+      "imageUrl": "https://images.unsplash.com/photo-1491309055486-24ae511c15c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlbmdsaXNoJTIwYm9va3xlbnwwfHx8fDE3NTg5NzE5MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "english book"
+    },
+    {
+      "id": "course-typing",
+      "description": "Hands on a keyboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0eXBpbmclMjBrZXlib2FyZHxlbnwwfHx8fDE3NTg4ODMwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "typing keyboard"
+    },
+    {
+      "id": "course-internet",
+      "description": "A globe with network lines.",
+      "imageUrl": "https://images.unsplash.com/photo-1627368021159-b315481e51bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW50ZXJuZXQlMjBzYWZldHl8ZW58MHx8fHwxNzU4OTcxOTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "internet safety"
+    },
+    {
+      "id": "avatar-male-1",
+      "description": "Portrait of a young boy.",
+      "imageUrl": "https://images.unsplash.com/photo-1693011726259-cc6b89c90d62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdHVkZW50JTIwYm95fGVufDB8fHx8MTc1ODk1MzEzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student boy"
+    },
+    {
+      "id": "avatar-female-1",
+      "description": "Portrait of a young girl.",
+      "imageUrl": "https://images.unsplash.com/photo-1548754144-65873dce8beb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdHVkZW50JTIwZ2lybHxlbnwwfHx8fDE3NTg5NTMxMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student girl"
+    },
+    {
+      "id": "avatar-teacher",
+      "description": "Portrait of a female teacher.",
+      "imageUrl": "https://images.unsplash.com/photo-1747778560868-5f7f6fd08f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVhY2hlciUyMHdvbWFufGVufDB8fHx8MTc1ODk1MzEzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teacher woman"
+    },
+    {
+      "id": "avatar-teacher-male",
+      "description": "Portrait of a male teacher.",
+      "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWxlJTIwdGVhY2hlcnxlbnwwfHx8fDE3NTkwMzA5ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teacher man"
+    },
+    {
+      "id": "avatar-parent",
+      "description": "Portrait of a parent.",
+      "imageUrl": "https://images.unsplash.com/photo-1733947269652-6d9922531213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwYXJlbnQlMjBhZHVsdHxlbnwwfHx8fDE3NTg5NzE5MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "parent adult"
+    }
+  ]
+}
